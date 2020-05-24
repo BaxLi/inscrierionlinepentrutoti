@@ -1,0 +1,6 @@
+{
+    "port":4100,
+    "mongoUri":"mongodb+srv://internetprogramareonline:X78Nw45TegmLHIGS@cluster0-ckfhv.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret":"token23!"
+
+}

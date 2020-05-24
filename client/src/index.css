@@ -1,0 +1,19 @@
+@import "~materialize-css/dist/css/materialize.min.css";
+
+input.yellowInput {
+    border-bottom: 1px solid #fff !important;
+    box-shadow: 0 1px 0 0 #Fff !important;
+}
+
+input.yellowInput + label {
+    color: #fff !important;
+}
+
+input.yellowInput:focus{
+    border-bottom: 1px solid #30c25c !important;
+    box-shadow: 0 1px 0 0 #30c25c!important; 
+}
+
+input.yellowInput:focus+label{
+    color: #16eb56 !important;
+}
